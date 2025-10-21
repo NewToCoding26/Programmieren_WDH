@@ -1,0 +1,6 @@
+Antwort:
+
+Zunächst schreibe ich cd progra um in den /home/jinora/progra path zu gelangen und dann cd Blatt01 um in dem /home/jinora/progra/Blatt01 
+zu gelangen un welcher sich meine Java Datei Befindet.
+
+Danach werde ich im terminal java Hello.java eingeben, um das Java Programm auszuführen.
